@@ -37,7 +37,7 @@ available:
 
 *   `startRow`: First row returned by the scanner.   
 *   `endRow`: Row stopping the scanner, not returned by the scanner.   
-*   `columns`: Filter the scanner by columns (a string or an array of columns).   
+*   `column`: Filter the scanner by columns (a string or an array of columns).   
 *   `batch`: Number of cells returned on each iteration.   
 *   `maxVersions`
 *   `startTime`   
